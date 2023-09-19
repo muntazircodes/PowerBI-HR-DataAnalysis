@@ -1,4 +1,18 @@
-Hi I am Muntazir Manan Dar, Data Scientits , Data Analyst, Bussiness Analyst and a Python Developer. In this Dashboard I have visualised why the employees are leaving the company what are the major causes of it and further more for any queries and questions please reach me 
+# Muntazir Manan Dar - Data Scientist, Data Analyst, Business Analyst, Python Developer
 
-<h3>Email</h3>
-<h6>muntazircodes@gmail.com</h6>
+Welcome to my profile! I am Muntazir Manan Dar, a professional with expertise in the following domains:
+
+- Data Science
+- Data Analysis
+- Business Analysis
+- Python Development
+
+## Employee Attrition Dashboard
+
+In this dashboard, I have conducted a thorough analysis to visualize the reasons behind employee attrition within a company. I have identified and highlighted the major causes that lead to employees leaving the organization.
+
+For any inquiries or questions related to this project or any other matter, please don't hesitate to reach out to me.
+
+### Contact Information
+
+- **Email:** [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
